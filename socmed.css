@@ -1,0 +1,49 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(4, 4, 5);
+}
+.navbar {
+    background-color: rgb(99, 43, 11);
+    width: 100%;
+    height: 100px;
+    display:flex
+}
+.navbar1 {
+    height: 100px;
+    justify-content:center;
+    align-items:center;
+    padding-top: 30px;
+    padding-left: 40%;
+}
+.navbar2 {
+    list-style-type:none;
+    padding: 10px;
+    color: white;
+    background-color: rgb(99, 43, 11);
+}
+.navbar2:hover {
+    background-color: black;
+}
+.navbar3 {
+    height: 100px;
+    justify-content:center;
+    align-items:center;
+    padding-top: 30px;
+}
+.a {
+    background-color: black;
+    width: 11cm;
+}
+.a:hover {
+    background-color: rgb(99, 43, 11);
+}
+.t {
+    padding-top: 42px;
+    padding-left: 45%;
+    color: white;
+    font-size: small;
+}
